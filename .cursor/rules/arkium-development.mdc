@@ -1,0 +1,7 @@
+---
+description: "ARKIUM completion-first autonomous engineering execution standard"
+alwaysApply: true
+---
+
+# ARKIUM — Completion First
+Follow the ARKIUM Global Engineering Directive in the root `AGENTS.md`. In an authorized active session, **BUILD -> INTEGRATE -> TEST -> FIX -> VERIFY -> CONTINUE** without requesting another prompt after a minor milestone. Choose the next eligible feature and keep the app runnable. After two failed fixes on one defect, gather new evidence or change approach, then move to other safe work if blocked. Never override repository-specific security, privacy, testing, or approval rules; never invent verification. Report completed functionality and evidence at session end.
