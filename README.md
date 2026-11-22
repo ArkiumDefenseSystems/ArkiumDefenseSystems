@@ -37,4 +37,6 @@ Selected components, documentation, tools, or research may be published when app
 
 **ARKIUM DEFENSE SYSTEMS**
 
-*Resilient technology for uncertain environments.*
+*Engineered for infrastructure collapse.*
+
+*Built for after the grid.*
