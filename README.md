@@ -37,4 +37,6 @@ Selected components, documentation, tools, or research may be published when app
 
 **ARKIUM DEFENSE SYSTEMS**
 
-*Resilient technology for uncertain environments.*
+*Built for after the grid.*
+
+*Offline-first systems for critical operations.*
