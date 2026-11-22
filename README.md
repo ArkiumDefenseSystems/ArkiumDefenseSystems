@@ -37,6 +37,6 @@ Selected components, documentation, tools, or research may be published when app
 
 **ARKIUM DEFENSE SYSTEMS**
 
-*Built for after the grid.*
+*Engineered for infrastructure collapse.*
 
-*Offline-first systems for critical operations.*
+*Built for after the grid.*
